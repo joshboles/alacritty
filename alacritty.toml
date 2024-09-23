@@ -1,0 +1,30 @@
+import = [
+  # uncomment the flavour you want below:
+  # "~/.config/alacritty/catppuccin-latte.toml"
+  "~/.config/alacritty/catppuccin-frappe.toml"
+  # "~/.config/alacritty/catppuccin-macchiato.toml"
+  # "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+bold.family = "FiraMono Nerd Font"
+bold_italic.family = "FiraMono Nerd Font"
+# glyph_offset.x = 1
+# glyph_offset.y = 2
+italic.family = "FiraMono Nerd Font"
+normal.family = "FiraMono Nerd Font"
+# offset.x = 1
+# offset.y = 2
+size = 12.0
+
+[window]
+blur = false
+decorations = "Buttonless"
+decorations_theme_variant = "Dark" # "Dark"
+opacity = 0.90
+padding.x = 5
+padding.y = 5
+
