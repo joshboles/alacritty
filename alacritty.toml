@@ -1,4 +1,4 @@
-import = [
+general.import = [
   # uncomment the flavour you want below:
   # "~/.config/alacritty/catppuccin-latte.toml"
   "~/.config/alacritty/catppuccin-frappe.toml"
@@ -24,7 +24,7 @@ size = 12.0
 blur = false
 decorations = "Buttonless"
 decorations_theme_variant = "Dark" # "Dark"
-opacity = 0.90
+opacity = 0.92
 padding.x = 5
 padding.y = 5
 
